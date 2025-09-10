@@ -1,4 +1,3 @@
-# Foundations-of-System-Analysis-and-Design  
 # Vehicle Registration System  
 
 ## Table of Contents
