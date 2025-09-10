@@ -11,19 +11,13 @@
 - [Acknowledgements](#acknowledgements)  
 
 ## Description
-Welcome to this project! This is a **Vehicle Registration System** designed to streamline and secure the vehicle registration process by reducing paperwork, enhancing efficiency, and providing role-based access for admins, users, and third-party agents.  
+Hi! Welcome! This is a **Vehicle Registration System** designed to streamline and secure the vehicle registration process by reducing paperwork, enhancing efficiency, and providing role-based access for admins, users, and third-party agents.  
 
 Users can register vehicles, renew registrations, search for vehicle information, calculate taxes and fees, upload and manage documents, and receive notifications. Government officials can generate reports and analyze registration data to support auditing and policy-making.  
 
 This project focuses on efficiency, security, and user-friendly design.  
 
 ## Languages and Technologies Used
-- HTML  
-- CSS  
-- JavaScript  
-- jQuery  
-- AJAX (via jQuery)  
-- SCSS (Sass)  
 - Visual Paradigm  
 
 ## Features
